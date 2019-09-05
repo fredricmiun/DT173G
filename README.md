@@ -1,2 +1,2 @@
-# DT173G
+# DT173G - Webbutveckling III
 Mittuniversitetet
